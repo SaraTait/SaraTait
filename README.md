@@ -40,8 +40,8 @@ I'm currently living in Trento, where I'm studying for my bachelor's degree in C
 - **Tum4World**
   -  project for my Introduction to Web Programming class
   -  website developed with:
-    -  HTML, CSS and Javascript for front-end
-    -  Java and Apache-Derby for back-end
-    -  servlet technology
+      -  HTML, CSS and Javascript for front-end
+      -  Java and Apache-Derby for back-end
+      -  servlet technology
   -  developed in collaboration with three other students from the same class
   - [Link to the repository](https://github.com/bettozzo/ProgettoWebUniTN)
